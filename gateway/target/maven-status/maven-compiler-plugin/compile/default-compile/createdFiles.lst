@@ -1,2 +1,3 @@
-com\example\gateway\config\IpBasedRateLimiterFilter.class
 com\example\gateway\GatewayApplication.class
+com\example\gateway\config\CorsGlobalConfiguration.class
+com\example\gateway\config\IpBasedRateLimiterFilter.class
